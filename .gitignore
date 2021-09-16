@@ -33,3 +33,5 @@
 
 # Private
 slides/
+.DS_Store
+*code-workspace
